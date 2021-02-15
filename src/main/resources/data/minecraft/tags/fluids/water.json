@@ -1,0 +1,8 @@
+{
+
+  "replace": false,
+  "values": [
+    "mccourse:oil_flowing",
+    "mccourse:oil_fluid"
+  ]
+}
